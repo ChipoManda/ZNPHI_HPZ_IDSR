@@ -1,1 +1,3 @@
 # ZNPHI_HPZ_IDSR
+
+This repository contains Python-based data analysis notebooks and outputs for The Health Press, ZNPHI's quarterly public health bulletin. Each subfolder corresponds to a reporting quarter and includes cleaned datasets, choropleth maps by province, weekly epi curves, and IDSR completeness and timeliness summaries. All analyses follow IDSR reporting conventions and are designed to run in VS Code, GitHub Codespaces, or Google Colab.
